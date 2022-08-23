@@ -4,4 +4,4 @@ I enjoy runnging and diving. 🏃
 
 ### About me
 - Data Architecture Professional (Data Modeling, Data Migration, SQL Tunning)
-- I also like to development. I like sql and java, groovy, python.⚡
+- I like to develop using SQL and Java, Groovy and Python.⚡

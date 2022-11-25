@@ -4,4 +4,4 @@
 
 ### About me
 - DAP, OCP, MCSE, MCDBA 
-- Java, Groovy, Delphi, SQL에 소질이 있습니다.⚡
+- Java, Groovy, SQL을 좋아합니다. Python도 좋아하려 하는 중입니다.⚡

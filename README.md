@@ -3,5 +3,5 @@
 달리기와 다이빙도 좋아해요. 🏃
 
 ### About me
-- DAP, OCP, MCSE, MCDBA 
+- DAP, OCP, MCSE, MCDBA - 코딩도 좋아하는 DA 입니다.
 - Java, Groovy, SQL을 좋아합니다. Python도 좋아지려 하는 중입니다.⚡

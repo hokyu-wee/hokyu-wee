@@ -4,4 +4,4 @@
 
 ### About me
 - DAP, OCP, MCSE, MCDBA 
-- Java, Groovy, SQL을 좋아합니다. Python도 좋아하려 하는 중입니다.⚡
+- Java, Groovy, SQL을 좋아합니다. Python도 좋아려 하는 중입니다.⚡
